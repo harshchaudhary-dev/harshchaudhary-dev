@@ -14,7 +14,7 @@ My goal is to become a skilled software developer with strong knowledge of Pytho
 - 🌱 Currently learning: Python & GitHub
 - 🧠 Next goal: DSA with C++
 - 💻 Future focus: Full-Stack Development
-- 🎯 Long-term goal: Internship at top tech companies
+- 🎯 Short-term goal: Internship at top tech companies
 - 📱 Building projects from mobile while improving daily
 
 ---
