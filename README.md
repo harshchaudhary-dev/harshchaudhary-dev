@@ -12,7 +12,7 @@ I am currently building my programming foundation step by step.
 My goal is to become a skilled software developer with strong knowledge of Python, DSA, Web Development, and future AI-based projects.
 
 - 🌱 Currently learning: Python & GitHub
-- 🧠 Next goal: DSA with Python
+- 🧠 Next goal: DSA with C++
 - 💻 Future focus: Full-Stack Development
 - 🎯 Long-term goal: Internship at top tech companies
 - 📱 Building projects from mobile while improving daily
@@ -35,7 +35,7 @@ My goal is to become a skilled software developer with strong knowledge of Pytho
 ## 📌 Current Learning Journey
 
 ### ✅ Completed
-- HTML Basics
+- HTML
 - GitHub Profile Setup
 - Python Beginner Programs
 
@@ -78,7 +78,7 @@ Programs included:
 ## 🤝 Connect With Me
 
 - 📧 Email: harshchaudhary.codes@gmail.com
-- 💼 LinkedIn: coming soon
+- 💼 LinkedIn: https://www.linkedin.com/in/harsh-chaudhary-609ba441b?utm_source=share_via&utm_content=profile&utm_medium=member_android
 - 🌐 Portfolio: coming soon
 
 ---
