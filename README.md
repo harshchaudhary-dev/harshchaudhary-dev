@@ -47,7 +47,7 @@ My goal is to become a skilled software developer with strong knowledge of Pytho
 ### 🎯 Upcoming Goals
 - CSS
 - JavaScript
-- DSA with Python
+- DSA with C++
 - Full-Stack Projects
 - AI Projects
 
