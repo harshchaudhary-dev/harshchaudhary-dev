@@ -77,7 +77,7 @@ Programs included:
 
 ## 🤝 Connect With Me
 
-- 📧 Email: your-email-here
+- 📧 Email: harshchaudhary.codes@gmail.com
 - 💼 LinkedIn: coming soon
 - 🌐 Portfolio: coming soon
 
