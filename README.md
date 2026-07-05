@@ -78,7 +78,7 @@ Programs included:
 ## 🤝 Connect With Me
 
 - 📧 Email: harshchaudhary.codes@gmail.com
-- 💼 LinkedIn: https://www.linkedin.com/in/harsh-chaudhary-609ba441b?utm_source=share_via&utm_content=profile&utm_medium=member_android
+- 💼 LinkedIn: https://www.linkedin.com/in/harsh-chaudhary-609ba441b
 - 🌐 Portfolio: coming soon
 
 ---
